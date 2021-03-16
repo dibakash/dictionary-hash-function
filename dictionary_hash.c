@@ -19,7 +19,7 @@ int main(void)
 
     // create hash table
 
-    for (int i = 0; i < strlen(arr1); i++)
+    for (int i = 0, n = strlen(arr1) - 1; i < n; i++)
     {
         if (!letters[create_hash(arr1[i])].found)
         {
@@ -28,11 +28,11 @@ int main(void)
         }
     }
 
-    for (int i = 0; i < strlen(arr2); i++)
+    for (int j = 0, m = strlen(arr1) - 1; j < m; j++)
     {
-        if (letters[create_hash(arr2[i])].found)
+        if (letters[create_hash(arr2[j])].found)
         {
-            printf("Found letter: %c\n", arr2[i]);
+            printf("Found letter: %c\n", arr2[j]);
         }
     }
 }
