@@ -4,8 +4,6 @@ create hash tables: specifically for CS50 Week 5 problem set : Speller.
 
 which hash function to use?
 
-Update:
-
 Good Hash Functions:
 https://stackoverflow.com/questions/2624192/good-hash-function-for-strings
 http://www.cse.yorku.ca/~oz/hash.html
