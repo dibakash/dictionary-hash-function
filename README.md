@@ -1,7 +1,5 @@
 # dictionary-hash-function
 
-update today
-
 create hash tables: specifically for CS50 Week 5 problem set : Speller. updates this file
 
 which hash function to use?
