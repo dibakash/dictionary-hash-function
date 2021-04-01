@@ -2,8 +2,6 @@
 
 Create hash tables: specifically for CS50 Week 5 problem set : Speller. updates this file
 
-// update this
-
 which hash function to use? 
 
 Good Hash Functions:
