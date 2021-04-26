@@ -10,7 +10,7 @@ https://stackoverflow.com/questions/2624192/good-hash-function-for-strings
 http://www.cse.yorku.ca/~oz/hash.html
 
 
-Why Bit-wise Arithmetic
+Why Bit-wise Arithmetic: [ will update in future]
 
 
 Why Hash Functions use prime numbers:
