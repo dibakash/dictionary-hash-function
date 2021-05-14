@@ -1,4 +1,5 @@
-# dictionary-hash-function updated as on 5/5/2021
+# dictionary-hash-function updated as on 14/5/2021
+
 
 Create hash tables: specifically for CS50 Week 5 problem set : Speller. updates this file
 
