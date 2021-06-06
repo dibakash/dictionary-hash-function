@@ -2,7 +2,7 @@
 
 Create hash tables: specifically for CS50 Week 5 problem set : Speller.
 
-[pending updates]
+[updates pending]
 
 which hash function to use?
 
